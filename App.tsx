@@ -5,7 +5,7 @@ export default function App() {
   return (
     <div>
       <h1>GAME</h1>
-      <p>CARDS</p>
+      <p>CARDSss</p>
     </div>
   );
 }
